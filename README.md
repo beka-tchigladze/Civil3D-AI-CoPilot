@@ -23,7 +23,7 @@ Currently, the AI Agent uses a custom WPF dockable palette to execute the follow
 * ⛰️ **Surface & Profiles:** Existing Ground sampling and dynamic Profile View grid creation.
 * 📐 **Auto-Design Profile:** Algorithmic calculation of a Best-Fit layout profile with parabolic curves.
 * 🚧 **3D Corridor:** Automated assembly of the corridor using a pre-defined assembly.
-* 📊 **Cross-Sections:** Section generation fully formatted with Code Sets and Data Bands in a clean grid.
+* 📊 **Cross-Sections:** Section generation fully formatted with Code Sets in a clean grid.
 * 🧹 **Model Cleansing:** A quick "delete what you drew" command to safely erase transactions and reset the drawing.
 
 ---
